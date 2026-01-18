@@ -24,7 +24,6 @@ var Sidemenu= document.getElementById("sidemenu");
         Sidemenu.style.right = "0";
     }
 
-
     function openmenu(){
         Sidemenu.style.right = "-200px";
     }
